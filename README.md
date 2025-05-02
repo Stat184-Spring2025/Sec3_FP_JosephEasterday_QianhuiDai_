@@ -13,30 +13,30 @@ It was the most visible within this graph, but we found that states like New Yor
 
 ## Repo Structure
 
-Repo File Bunch 0: Initial Files - \n
--README.md: The file that is currently open
--.gitignore: Repository configuration file
+Repo File Bunch 0: Initial Files - 
+1) README.md: The file that is currently open 
+2) .gitignore: Repository configuration file 
 
 Repo File Bunch 1: Data Files -
--Gross_Domestic_Product.xlsx: Raw excel file of each state's gross domestic product
--state_statistics.xlsx: Tidied/cleaned excel file of each state's gross domestic product
--STORE_STATUS_PUBLIC_VIEW.csv: Raw comma seperated values file of each state's number of walmart stores.
--walmart_store_distribution.xlsx: Tidied/cleaned excel file of each state's number of walmart stores.
+3) Gross_Domestic_Product.xlsx: Raw excel file of each state's gross domestic product 
+4) state_statistics.xlsx: Tidied/cleaned excel file of each state's gross domestic product 
+5) STORE_STATUS_PUBLIC_VIEW.csv: Raw comma seperated values file of each state's number of walmart stores 
+6) walmart_store_distribution.xlsx: Tidied/cleaned excel file of each state's number of walmart stores 
 
-Repo File Bunch 2: Bar Graph Files -
--Multi-layer Bar Graph.R - R code for the bar graph visual
--Multi-layer Bar Graph.pdf - Pdf file for the bar graph visual
+Repo File Bunch 2: Bar Graph Files - 
+7) Multi-layer Bar Graph.R - R code for the bar graph visual 
+8) Multi-layer Bar Graph.pdf - Pdf file for the bar graph visual 
 
-Repo File Bunch 3: Scatterplot Files -
--Scatterplot.R - R code for the scatterplot visual
--Scatterplot.pdf - Pdf file for the scatterplot visual
+Repo File Bunch 3: Scatterplot Files - 
+9) Scatterplot.R - R code for the scatterplot visual 
+10) Scatterplot.pdf - Pdf file for the scatterplot visual 
 
-Repo File Bunch 4: Correlation Files -
--correlation test.R - R code to test the correlation of our two selected variables
+Repo File Bunch 4: Correlation Files - 
+11) correlation test.R - R code to test the correlation of our two selected variables 
 
-Repo File Bunch 5: Final Report Files -
--Project Final Report PDF.pdf - Pdf file of the overall project report
--Project Final Report QMD.qmd - Qmd file of the R code that creates the overall project report
+Repo File Bunch 5: Final Report Files - 
+12) Project Final Report PDF.pdf - Pdf file of the overall project report 
+13) Project Final Report QMD.qmd - Qmd file of the R code that creates the overall project report 
 
 ## Data Sources and Acknowledgements
 
