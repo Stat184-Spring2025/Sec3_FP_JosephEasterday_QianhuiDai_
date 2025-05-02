@@ -1,23 +1,52 @@
-# Project Title
+# Walmart Store Vs. State GDP
 
-Write a 1-2 sentences that quickly and clearly convey what your repo is for.
+This repository includes everything that was made to test whether the number of walmart stores within a certain state correlates to how large a certain state's Gross Domestic Product is.
 
 ## Overview
 
-Expand on those introductory sentences with a brief but informative description of your project's purpose and goals. This section should help visitors decide whether they should dig deeper into your repo/project.
+In this project, we investigated the relationship between the number of Walmart stores in each U.S. state and the corresponding state-level GDP. By merging and analyzing data from Walmart’s public store distribution and state GDP statistics, we aimed to explore whether economic strength correlates with retail presence. Overall, we wanted our findings to highlight how data visualization and correlation analysis can offer practical insights for business strategy, retail planning, and economic geography. This analysis may assist retailers or policy makers in identifying market opportunities or evaluating how commercial infrastructure aligns with economic activity.
 
 ### Interesting Insight
 
-This is optional but highly recommended. You'll include one interesting insight from your project as part of the README. This insight is most effective when you include a visual. Keep in mind that this visual must be included as an image file (e.g., JPG, PNG, etc.). You can export plots created with `{ggplot2}` by using the function `ggsave`.
+[Multi-layer Bar Graph.pdf](https://github.com/user-attachments/files/20007602/Multi-layer.Bar.Graph.pdf)
+It was the most visible within this graph, but we found that states like New York and New Jersey showed lower-than-expected store counts despite having large economies.
 
 ## Repo Structure
 
-Use this section to explain the structure of your repo. This should help visitors quickly figure out where they should look to find certain elements. Further, you can use this space to highlight and briefly explain important/key files in the repo.
+Repo File Bunch 0: Initial Files -
+-README.md: The file that is currently open
+-.gitignore: Repository configuration file
+
+Repo File Bunch 1: Data Files -
+-Gross_Domestic_Product.xlsx: Raw excel file of each state's gross domestic product
+-state_statistics.xlsx: Tidied/cleaned excel file of each state's gross domestic product
+-STORE_STATUS_PUBLIC_VIEW.csv: Raw comma seperated values file of each state's number of walmart stores.
+-walmart_store_distribution.xlsx: Tidied/cleaned excel file of each state's number of walmart stores.
+
+Repo File Bunch 2: Bar Graph Files -
+-Multi-layer Bar Graph.R - R code for the bar graph visual
+-Multi-layer Bar Graph.pdf - Pdf file for the bar graph visual
+
+Repo File Bunch 3: Scatterplot Files -
+-Scatterplot.R - R code for the scatterplot visual
+-Scatterplot.pdf - Pdf file for the scatterplot visual
+
+Repo File Bunch 4: Correlation Files -
+-correlation test.R - R code to test the correlation of our two selected variables
+
+Repo File Bunch 5: Final Report Files -
+-Project Final Report PDF.pdf - Pdf file of the overall project report
+-Project Final Report QMD.qmd - Qmd file of the R code that creates the overall project report
 
 ## Data Sources and Acknowledgements
 
-Be sure to list where you got any data used within the project. Be sure to acknowledge any one whose work or elements you're drawing upon.
+State GDP Data:
+Bureau of Economic Analysis. “GDP by State (Annual)”. U.S. Department of Commerce, https://apps.bea.gov/itable/?ReqID=70&step=1.
+
+Walmart Data:
+Walmart Tech. “Walmart Store Status Public Dataset”. Walmart Open Data Hub, https://walmart-open-data-walmarttech.opendata.arcgis.com/datasets/39ce1c357bd2424ca481db84aed29464_0
 
 ## Authors
 
-Give information about who are the authors of the project and how people can get in touch if they have questions.
+Qianhui Dai - qpd5030@psu.edu Penn State Provided Educational Email
+Joseph Easterday - jme5949@psu.edu Penn State Provided Educational Email
