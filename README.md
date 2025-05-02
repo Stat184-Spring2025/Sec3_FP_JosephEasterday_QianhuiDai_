@@ -8,8 +8,7 @@ In this project, we investigated the relationship between the number of Walmart 
 
 ### Interesting Insight
 
-[Multi-layer Bar Graph.pdf](https://github.com/user-attachments/files/20007602/Multi-layer.Bar.Graph.pdf)
-It was the most visible within this graph, but we found that states like New York and New Jersey showed lower-than-expected store counts despite having large economies.
+It was the most visible within the bar graph, but we found that states like New York and New Jersey showed lower-than-expected store counts despite having large economies.
 
 ## Repo Structure
 
@@ -24,19 +23,19 @@ Repo File Bunch 1: Data Files -
 4) walmart_store_distribution.xlsx: Tidied/cleaned excel file of each state's number of walmart stores 
 
 Repo File Bunch 2: Bar Graph Files - 
-1) Multi-layer Bar Graph.R - R code for the bar graph visual 
-2) Multi-layer Bar Graph.pdf - Pdf file for the bar graph visual 
+1) Multi-layer Bar Graph.R: R code for the bar graph visual 
+2) Multi-layer Bar Graph.pdf: Pdf file for the bar graph visual 
 
 Repo File Bunch 3: Scatterplot Files - 
-1) Scatterplot.R - R code for the scatterplot visual 
-2) Scatterplot.pdf - Pdf file for the scatterplot visual
+1) Scatterplot.R: R code for the scatterplot visual 
+2) Scatterplot.pdf: Pdf file for the scatterplot visual
     
 Repo File Bunch 4: Correlation Files - 
-1) correlation test.R - R code to test the correlation of our two selected variables 
+1) correlation test.R: R code to test the correlation of our two selected variables 
 
 Repo File Bunch 5: Final Report Files - 
-1) Project Final Report PDF.pdf - Pdf file of the overall project report 
-2) Project Final Report QMD.qmd - Qmd file of the R code that creates the overall project report 
+1) Project Final Report PDF.pdf: Pdf file of the overall project report 
+2) Project Final Report QMD.qmd: Qmd file of the R code that creates the overall project report 
 
 ## Data Sources and Acknowledgements
 
@@ -48,5 +47,5 @@ Walmart Tech. “Walmart Store Status Public Dataset”. Walmart Open Data Hub, 
 
 ## Authors
 
-Qianhui Dai - qpd5030@psu.edu Penn State Provided Educational Email
-Joseph Easterday - jme5949@psu.edu Penn State Provided Educational Email
+1) Qianhui Dai: qpd5030@psu.edu - Penn State Provided Educational Email
+2) Joseph Easterday: jme5949@psu.edu - Penn State Provided Educational Email
