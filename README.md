@@ -13,7 +13,7 @@ It was the most visible within this graph, but we found that states like New Yor
 
 ## Repo Structure
 
-Repo File Bunch 0: Initial Files -
+Repo File Bunch 0: Initial Files - \n
 -README.md: The file that is currently open
 -.gitignore: Repository configuration file
 
