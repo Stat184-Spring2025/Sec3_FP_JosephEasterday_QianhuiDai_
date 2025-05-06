@@ -35,7 +35,8 @@ Repo File Bunch 4: Correlation Files -
 
 Repo File Bunch 5: Final Report Files - 
 1) Project Final Report PDF.pdf: Pdf file of the overall project report 
-2) Project Final Report QMD.qmd: Qmd file of the R code that creates the overall project report 
+2) Project Final Report QMD.qmd: Qmd file of the R code that creates the overall project report
+3) PCIP.docx: Word document that records the Proper principles and guidelines used to plan, code, improve, and polish the repo
 
 ## Data Sources and Acknowledgements
 
